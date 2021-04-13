@@ -1,11 +1,8 @@
 function Main () {
   return (
     <div>
-      <h2>This is the main content</h2>
-      <ul>
-        <li>test</li>
-        <li>test2</li>
-      </ul>
+      <h2>{title}</h2>
+      
     </div>
   );
 }
