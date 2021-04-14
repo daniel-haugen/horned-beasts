@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+# Horned Beasts React App
+## Day 2 Estimates
+
+
+Number and name of feature: Display Images
+Estimate of time needed to complete: _____
+Start time: _____
+Finish time: _____
+Actual time needed to complete: _____
+
+Number and name of feature: Vote for Favorite Beast
+Estimate of time needed to complete: _____
+Start time: _____
+Finish time: _____
+Actual time needed to complete: _____
+
+Number and name of feature: Bootstrap
+Estimate of time needed to complete: _____
+Start time: _____
+Finish time: _____
+Actual time needed to complete: _____
+
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
