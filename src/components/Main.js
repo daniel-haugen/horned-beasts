@@ -1,8 +1,10 @@
+import HornedBeast from './HornedBeast'
+
 function Main () {
   return (
     <div>
-      <h2>test</h2>
-      
+      <HornedBeast />
+      <HornedBeast />
     </div>
   );
 }
