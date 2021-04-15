@@ -1,6 +1,6 @@
 function Footer() {
   return (
- <h2>Daniel Haugen</h2>
+ <h2>❤️Daniel Haugen❤️</h2>
   );
 }
 
