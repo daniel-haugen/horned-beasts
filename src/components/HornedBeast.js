@@ -9,7 +9,7 @@ class HornedBeast extends React.Component {
     };
   }
 
-  addLike = () => this.setState({ likes: this.state.likes + 419 });
+  addLike = () => this.setState({ likes: this.state.likes + 1 });
 
   render() {
     return (
