@@ -1,4 +1,23 @@
 # Horned Beasts React App
+
+## Lab 3 Estimates
+
+Number and name of feature: Display Modal
+Estimate of time needed to complete: 1 hour
+Start time: 3:40pm
+Finish time: _____
+Actual time needed to complete: _____
+
+Number and name of feature: Fuzzy Search
+Estimate of time needed to complete: 1 hour
+Start time: 
+Finish time: _____
+Actual time needed to complete: _____
+
+
+
+
+
 ## Day 2 Estimates
 
 

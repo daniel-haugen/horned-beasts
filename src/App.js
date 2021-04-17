@@ -1,6 +1,6 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Container, CardColumns, Card, Navbar } from 'react-bootstrap'
+import Container from 'react-bootstrap/Container';
 import React from 'react';
 import Header from './components/Header';
 import Main from './components/Main';
@@ -9,13 +9,14 @@ import ItemList from "./data.json";
 
 
 
+
 class App extends React.Component {
-  
+
   render() {
   return (
     <Container fluid>
       <Header  />
-      <Main data={ItemList} />
+      <Main data={ItemList} open={this.onOpen} close={this.onClose} />
       <Footer />
     </Container>
   );
