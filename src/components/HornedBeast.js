@@ -15,19 +15,19 @@ class HornedBeast extends React.Component {
 
   addLike = () => this.setState({ likes: this.state.likes + 1 });
 
-  onOpen = () => this.setState({showModal: true});
+  onOpen = () => this.setState({ showModal: true });
 
-  onClose = () => this.setState({showModal: false});
+  onClose = () => this.setState({ showModal: false });
 
   render() {
     return (
       <>
-        <Card style={{ minWidth: "18rem", display: "flex", flexDirection: "column", justifyContent: "space-around", alignItems: "space-around" }}>
+        <Card style={{ minWidth: "18rem", display: "flex", flexDirection: "column", justifyContent: "space-around", alignItems: "space-around", padding: "10px" }}>
           <Card.Img 
           variant="top" 
           src={this.props.img} 
           alt="" 
-          style={{ width: "100%", height: "auto" }}
+          style={{ width: "100%", height: "300px", objectFit: "cover" }}
           onClick={this.onOpen}  />
           <Card.Body style={{ display: "flex", flexDirection: "column", justifyContent: "space-around", alignItems: "space-around" }} >
             <Card.Title>{this.props.title}</Card.Title>
