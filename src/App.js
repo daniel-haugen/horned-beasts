@@ -16,7 +16,7 @@ class App extends React.Component {
   return (
     <Container fluid>
       <Header  />
-      <Main data={ItemList} open={this.onOpen} close={this.onClose} />
+      <Main data={ItemList} />
       <Footer />
     </Container>
   );
