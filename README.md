@@ -1,46 +1,34 @@
 # Horned Beasts React App
 
-## Lab 3 Estimates
+## Lab 4 Estimates
+Number and name of feature: Form Filter
+Estimate of time needed to complete: 2 hours
+Actual time needed to complete: 8 hours
 
+
+## Lab 3 Estimates
 Number and name of feature: Display Modal
 Estimate of time needed to complete: 1 hour
-Start time: 3:40pm
-Finish time: _____
-Actual time needed to complete: _____
+Actual time needed to complete: 8 hours
 
 Number and name of feature: Fuzzy Search
 Estimate of time needed to complete: 1 hour
-Start time: 
-Finish time: _____
 Actual time needed to complete: _____
-
-
-
-
 
 ## Day 2 Estimates
 
-
 Number and name of feature: Display Images
 Estimate of time needed to complete: _____
-Start time: _____
-Finish time: _____
+
 Actual time needed to complete: _____
 
 Number and name of feature: Vote for Favorite Beast
 Estimate of time needed to complete: _____
-Start time: _____
-Finish time: _____
 Actual time needed to complete: _____
 
 Number and name of feature: Bootstrap
 Estimate of time needed to complete: _____
-Start time: _____
-Finish time: _____
 Actual time needed to complete: _____
-
-
-
 
 
 ## Getting Started with Create React App
